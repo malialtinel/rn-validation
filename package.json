@@ -1,0 +1,22 @@
+{
+  "name": "rn-validation-mali",
+  "version": "1.0.0",
+  "description": "phone number validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malialtinel/rn-validation.git"
+  },
+  "keywords": [
+    "phone-number-validation"
+  ],
+  "author": "Muhammed Ali ALTINEL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malialtinel/rn-validation/issues"
+  },
+  "homepage": "https://github.com/malialtinel/rn-validation#readme"
+}
